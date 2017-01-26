@@ -1,5 +1,5 @@
 
-#include <libsodium-ios/crypto_sign.h>
+#include "../include/sodium/crypto_sign.h"
 
 size_t
 crypto_sign_bytes(void)
