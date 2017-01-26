@@ -1,5 +1,5 @@
 #include "api.h"
-#include <libsodium-ios/crypto_hash_sha512.h>
+#include "../../../include/sodium/crypto_hash_sha512.h"
 #include "randombytes.h"
 #include "crypto_verify_32.h"
 
