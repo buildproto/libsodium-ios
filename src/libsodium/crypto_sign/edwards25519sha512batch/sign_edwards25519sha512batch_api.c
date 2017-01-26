@@ -1,4 +1,4 @@
-#include "crypto_sign_edwards25519sha512batch.h"
+#include <libsodium-ios/crypto_sign_edwards25519sha512batch.h>
 
 size_t
 crypto_sign_edwards25519sha512batch_bytes(void) {
